@@ -17,5 +17,5 @@ Built for producers and beatmakers who want to turn raw ideas into finished trac
 
 1. Record any melody on a MIDI track.
 2. Click "Make" for instant, unlimited harmonies. ✨
-3. Generate a tailored bassline on a new MIDI track. 🎸
+3. Choose bass track to generate a tailored bassline on a new MIDI track. 🎸
 4. Add unique counter-melodies and drum loops. 🥁
